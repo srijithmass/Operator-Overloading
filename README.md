@@ -71,7 +71,7 @@ namespace overload
  ```
  
 ## Output:
-![output](ss1.png)
+![output](SS.png)
  
 ## Result:
 
